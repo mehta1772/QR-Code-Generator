@@ -31,25 +31,7 @@ Before you begin, ensure you have met the following requirements:
 - [Node.js](https://nodejs.org/) installed on your machine.
 - npm (Node Package Manager) installed.
 
-## Installation
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/mehta1772/qr-code-generator.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd qr-code-generator
-   ```
-
-3. Install the project dependencies:
-
-   ```bash
-   npm install
-   ```
 
 ## Usage
 
