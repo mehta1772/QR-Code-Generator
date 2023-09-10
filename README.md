@@ -3,7 +3,7 @@
 
 Generate QR codes from URLs using this simple Node.js application.
 
-## Table of Contents
+## Table of Contents.
 
 - [Overview](#overview)
 - [Features](#features)
