@@ -13,7 +13,7 @@ Generate QR codes from URLs using this simple Node.js application.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## Overview.
 
 This project is a QR code generator built using Node.js. It takes a URL input and generates a QR code image that can be easily scanned to access the provided URL. QR codes are useful for various applications, such as sharing website links, Wi-Fi credentials, and more.
 
